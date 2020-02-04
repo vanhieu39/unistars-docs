@@ -1,0 +1,59 @@
+{
+	[
+		id_user: iduser_1
+		date:thursday/january/9/2020
+		products:[
+			{
+				images: nutrimil.jpg,
+				name: Nutrimil,
+				id_color: green
+				num_warning:3,
+				is_warning:0
+			},
+			{
+				images: fiber.jpg,
+				name: Fiber,
+				id_color: blue,
+				num_warning:2,
+				is_warning:0
+			},
+			{
+				images: Healthpack.jpg,
+				name: Health pack,
+				id_color: pink,
+				num_warning:2,
+				is_warning:0
+			}
+		],
+		summary: 0%
+	],
+	[
+		id_user: iduser_1
+		date:thursday/january/9/2020
+		products:[
+			{
+				images: nutrimil.jpg,
+				name: Nutrimil,
+				id_color: green
+				num_warning:3,
+				is_warning:3
+			},
+			{
+				images: fiber.jpg,
+				name: Fiber,
+				id_color: blue,
+				num_warning:2,
+				is_warning:2
+			},
+			{
+				images: Healthpack.jpg,
+				name: Health pack,
+				id_color: pink,
+				num_warning:2,
+				is_warning:2
+			}
+		],
+		summary: 100%
+	],
+	
+}
